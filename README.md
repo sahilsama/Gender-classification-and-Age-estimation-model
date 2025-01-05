@@ -40,9 +40,6 @@ git clone https://github.com/your-username/age-gender-prediction
 cd age-gender-prediction
 2. Install Dependencies
 Install the required Python libraries:
-
-bash
-Copy code
 pip install -r requirements.txt
 3. Add Your Model
 Place the pre-trained TensorFlow model (your_model.h5) in the model/ directory.
@@ -50,11 +47,10 @@ Place the pre-trained TensorFlow model (your_model.h5) in the model/ directory.
 4. Run the Application
 Start the Flask server:
 
-bash
-Copy code
-python app.py
+Type the command in the ` Terminal/cmd ` :
+ ` python app.py `
 5. Open in Browser
-Visit http://127.0.0.1:5000/ in your browser to use the app.
+Visit `http://127.0.0.1:5000/` in your browser to use the app.
 
 ## 🖥 Usage
 Open the web app in your browser.
