@@ -1,5 +1,12 @@
 # Age and Gender Prediction Web App
 This is a Flask-based web application that predicts the age and gender of a person from an uploaded image using a deep learning model. It was developed as a 5th Semester Mini Project to demonstrate the integration of machine learning and web development.
+# webapp
+![Screenshot 2025-01-08 131751](https://github.com/user-attachments/assets/6f7eaaf5-38a4-4af9-94ac-ccb1d66c2646)
+# select a picture
+![Screenshot 2025-01-08 132237](https://github.com/user-attachments/assets/0a072414-f650-41b0-8e96-decb1cdde020)
+# prediction
+![Screenshot 2025-01-08 132253](https://github.com/user-attachments/assets/ea59025a-82a7-4963-b517-679881421886)
+
 
 # 📋 Table of Contents
 ## About the Project🌟
@@ -65,3 +72,5 @@ Add support for batch predictions (multiple images at once).
 
 ## 📝 License
 Under MIT License For educational purposes only.
+
+
