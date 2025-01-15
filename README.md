@@ -43,7 +43,7 @@ Python: Main programming language.
 1. Clone the Repository
 bash
 Copy code
-git clone https://github.com/your-username/age-gender-prediction
+`git clone https://github.com/your-username/age-gender-prediction`
 cd age-gender-prediction
 2. Install Dependencies
 Install the required Python libraries:
